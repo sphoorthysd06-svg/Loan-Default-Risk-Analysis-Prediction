@@ -1,0 +1,13 @@
+Feature,Importance
+Credit_Score,0.16
+Interest_Rate,0.14
+Debt_to_Income_Ratio,0.14
+EMI,0.12
+Loan_Amount,0.11
+Monthly_Income,0.09
+Existing_Loans,0.08
+Tenure_Months,0.04
+Loan_Type,0.03
+Employment_Type,0.03
+Age_Group,0.03
+Previous_Default,0.03
